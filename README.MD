@@ -22,13 +22,13 @@ Aqui estão alguns dos projetos que desenvolvi:
 - **📊 Simulações e modelagens com MATLAB**  
 
 ## 📞 Contato  
-📧 **Email:** [ateniltonjr09@email.com](mailto:ateniltonjr09@email.com)  
-📞 **Telefone:** 77999432631
+📧 **Email:** x@email.com](mailto:x@email.com)  
+📞 **Telefone:** (77) 999xx-xxxx
 📄 **Currículo Lattes:** [Lattes](https://lattes.com)  
 🌐 [LinkedIn](https://linkedin.com)  
 🐙 [GitHub](https://github.com/ateniltonjr)  
 📷 [Instagram](https://instagram.com)  
-🎥 [YouTube](https://www.youtube.com/@AteniltonJunior)  
+🎥 [YouTube](https://www.youtube.com)  
 
 ---
 
