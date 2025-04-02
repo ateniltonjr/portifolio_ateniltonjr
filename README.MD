@@ -23,7 +23,7 @@ Aqui estão alguns dos projetos que desenvolvi:
 
 ## 📞 Contato  
 📧 [Email](mailto:x@email.com)  
-📞 [Telefone]: xx xxxx
+📞 [Telefone]: 4002 8922
 📄 [Lattes](https://lattes.com)  
 🌐 [LinkedIn](https://linkedin.com)  
 🐙 [GitHub](https://github.com/ateniltonjr)  
